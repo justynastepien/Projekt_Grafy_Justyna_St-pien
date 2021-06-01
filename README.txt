@@ -1,0 +1,2 @@
+Algorytm Ballmana-Forda, program wczytuje dane z pliku "graf.txt" zawierający macierz sąsiedztwa danego grafu oraz wagi.
+Przykładowy graf oraz przykład jego zapisania został umieszczony w pliku graf.txt.
